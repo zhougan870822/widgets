@@ -30,4 +30,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation project(':widgets')
+    implementation 'com.github.zhougan870822:android-common:1.0.1'
+    implementation 'com.github.zhougan870822:permission:1.0.1'
 }
