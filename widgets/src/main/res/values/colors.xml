@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary" tools:ignore="ResourceName">#008577</color>
+    <color name="colorPrimaryDark" tools:ignore="ResourceName">#00574B</color>
+    <color name="colorAccent" tools:ignore="ResourceName">#D81B60</color>
     <color name="widgets_load_more_view_text_color">#888888</color>
 
+    <!--默认文字颜色-->
+    <color name="widgets_textColor">#333333</color>
+    <color name="widgets_white">#ffffff</color>
+    <color name="widgets_black">#000000</color>
+    <color name="widgets_red">#ff0000</color>
+    <color name="widgets_blue">#0000ff</color>
+    <color name="widgets_green">#00ff00</color>
+    <color name="widgets_pink">#ff00ff</color>
+
+    <color name="widgets_gray_c">#cccccc</color>
+    <color name="widgets_gray_d">#dddddd</color>
+    <color name="widgets_gray_e">#eeeeee</color>
 </resources>
